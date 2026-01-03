@@ -1,0 +1,17 @@
+{
+  "T1087": {
+    "module": "discovery.T1087_list_users",
+    "class": "Technique",
+    "tactic": "discovery"
+  },
+  "T1053": {
+    "module": "persistence.T1053_scheduled_tasks",
+    "class": "Technique",
+    "tactic": "persistence"
+  },
+  "T1021": {
+    "module": "lateral_movement.T1021_remote_services",
+    "class": "Technique",
+    "tactic": "lateral_movement"
+  }
+}
